@@ -1,8 +1,8 @@
 {
-  "short_name": "Uh",
-  "name": "Uh",
-  "start_url": "/uh",
+  "short_name": "Alive",
+  "name": "Alive",
+  "start_url": "/alive",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#000000"
 }
